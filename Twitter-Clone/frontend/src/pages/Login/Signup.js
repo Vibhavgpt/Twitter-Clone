@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useUserAuth } from "../../context/UserAuthContext";
-import twitterimg from "../../image/twitter.jpeg";
+import twitterimg from "../../image/twitterimg2.png";
 import TwitterIcon from '@mui/icons-material/Twitter';
 import GoogleButton from "react-google-button";
 import "./Login.css"
